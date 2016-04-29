@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/client/model/QqClientConnectionServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/client/model/QqClientUser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/client/tools/ClientConnectServerThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/client/tools/ManageClientConnectServerThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/client/tools/ManageQqChat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/client/view/QqChat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/client/view/QqClientLogin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/client/view/QqList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/qq/common/User.java" charset="UTF-8" />
+  </component>
+</project>
